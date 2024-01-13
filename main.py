@@ -19,9 +19,28 @@ for i in range(0,9):
 
 for i in range(0,9):
     print(i)
-    for i in range(0,9):
+for i in range(0,9):
     print(i)
 
 for i in range(0,9):
     print(i)
+
+print("Hello Python")
+print("Write your code")
+print("Write your code2")
+print("Hello Python")
+print("Write your code")
+print("Write your code2")
+print("Hello Python")
+print("Write your code")
+print("Write your code2")
+print("Hello Python")
+print("Write your code")
+print("Write your code2")
+print("Hello Python")
+print("Write your code")
+print("Write your code2")
+print("Hello Python")
+print("Write your code")
+print("Write your code2")
 
